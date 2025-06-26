@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Felements.envato.com%2Fdevops-DRQKJPE&psig=AOvVaw0T75lz74k3N99KxjJxyWPp&ust=1751053687760000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDGvL3tj44DFQAAAAAdAAAAABAE" />
 
 - 🔭 I’m currently working on **E//**
 
