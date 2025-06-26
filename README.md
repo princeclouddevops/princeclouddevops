@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2645/2645897.png" alt="Automation Icon" width="150"/>
+  <img src="https://images.viblo.asia/9d473986-1d62-4abf-b3f1-c537fbde4178.jpg" alt="Automation" width="150"/>
 </p>
-
 - 🔭 I’m currently working on **E//**
 
 - 🌱 I’m currently learning **Terafform,AWS**
