@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Felements.envato.com%2Fdevops-DRQKJPE&psig=AOvVaw0T75lz74k3N99KxjJxyWPp&ust=1751053687760000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDGvL3tj44DFQAAAAAdAAAAABAE](https://www.google.com/imgres?q=devops%20automation&imgurl=https%3A%2F%2Fwww.shinetechsoftware.co.uk%2Fwp-content%2Fuploads%2F2024%2F04%2F64462c9aa967774ccae5419f_611518d293e1fb811565bcc9_devops-automation-humanitec.jpeg&imgrefurl=https%3A%2F%2Fwww.shinetechsoftware.com.au%2Ftechnology%2Fdevops-practices-an-introduction-to-continuous-integration-continuous-deployment-and-automated-testing%2F&docid=K5y1UC6HnwUuTM&tbnid=cym7SaZIWiE1CM&vet=12ahUKEwiB-rrH7o-OAxW9lK8BHarAEd4QM3oECEcQAA..i&w=1200&h=628&hcb=2&itg=1&ved=2ahUKEwiB-rrH7o-OAxW9lK8BHarAEd4QM3oECEcQAA)" />
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="DevOps Icon" width="150"/>
+</p>
 
 - 🔭 I’m currently working on **E//**
 
