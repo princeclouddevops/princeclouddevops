@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="DevOps Icon" width="150"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2645/2645897.png" alt="Automation Icon" width="150"/>
 </p>
 
 - 🔭 I’m currently working on **E//**
