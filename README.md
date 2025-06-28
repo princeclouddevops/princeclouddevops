@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" 
      alt="DevOps Animation" 
      width="100" 
-     style="display: block; margin-left: auto; margin-right: 160px;" />
+     style="display: block; margin-right: 160px;" />
 
 - 🔭 I’m currently working for **E//**
 - 🌱 I’m currently learning **Terafform,AWS**
