@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
 <!-- Image aligned right and moved down -->
-<img src="https://yourhost.com/path-to-image.gif" alt="DevOps Animation" />
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="DevOps Animation" width="400" style="float: right; margin: 20px;" />
 
 - 🔭 I’m currently working for **E//**
-
 - 🌱 I’m currently learning **Terafform,AWS**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-kumar-b573101b2/](https://www.linkedin.com/in/prince-kumar-b573101b2/)
-
 - 💬 Ask me about **Python, Git, GitHub, Linux, Docker, Docker Compose, Kubernetes, Jenkins, Helm, Prometheus, Grafana**
-
 - 📫 How to reach me **princeclouddevops@gmail.com**
-
 - ⚡ Fun fact **Git commit –m "I’m hilarious" 😄**
 
 <h3 align="left">Connect with me:</h3>
