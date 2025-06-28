@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **E//**
 - 🌱 I’m currently learning **Terafform,AWS**
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-kumar-b573101b2/](https://www.linkedin.com/in/prince-kumar-b573101b2/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/prince-kumar-b573101b2](www.linkedin.com/in/prince-kumar-b573101b2)
 - 💬 Ask me about **Python, Git, GitHub, Linux, Docker, Docker Compose, Kubernetes, Jenkins, Helm, Prometheus, Grafana**
 - 📫 How to reach me **princeclouddevops@gmail.com**
 - ⚡ Fun fact **Git commit –m "I’m hilarious" 😄**
