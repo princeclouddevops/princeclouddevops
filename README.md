@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
 <!-- Image aligned right and moved down -->
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif" alt="DevOps Animation" />
+<img src="https://yourhost.com/path-to-image.gif" alt="DevOps Animation" />
 
 - 🔭 I’m currently working for **E//**
 
