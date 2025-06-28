@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<marquee behavior="alternate" direction="right" scrollamount="5">
-  <h3>DevOps Engineer at Wipro</h3>
-</marquee>
+<h3 align="center">DevOps Engineer at Wipro</h3>
 
 - 🔭 I’m currently working for **E//**
 - 🌱 I’m currently learning **Terafform,AWS**
