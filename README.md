@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">DevOps Engineer at Wipro</h3>
 <!-- Image aligned right and moved down -->
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="DevOps Animation" width="100" style="display: block; margin-right: auto; margin-right: 0;" />
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="DevOps Animation" width="100" style="display: block; margin-left: auto; margin-right: 60;" />
 
 - 🔭 I’m currently working for **E//**
 - 🌱 I’m currently learning **Terafform,AWS**
