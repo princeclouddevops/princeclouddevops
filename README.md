@@ -3,11 +3,9 @@
 <!-- Image aligned right and moved down -->
 <img src="https://images.viblo.asia/9d473986-1d62-4abf-b3f1-c537fbde4178.jpg" alt="Automation" width="150" style="float: right; margin-top: 20px; margin-left: 20px;" />
 
-- 🔭 I’m currently working on **E//**
+- 🔭 I’m currently working for **E//**
 
 - 🌱 I’m currently learning **Terafform,AWS**
-
-- 👯 I’m looking to collaborate on **E//**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prince-kumar-b573101b2/](https://www.linkedin.com/in/prince-kumar-b573101b2/)
 
