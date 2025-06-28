@@ -3,7 +3,7 @@
 <!-- Image aligned right and moved down -->
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" 
      alt="DevOps Animation" 
-     width="100" 
+     width="80" 
      style="display: block; margin-right: 160px;" />
 
 - 🔭 I’m currently working for **E//**
